@@ -1,9 +1,9 @@
-# mindcare-chatbox
-mindcare-chatbox🧠💙
+# MindCare AI
+ MindCare AI🧠💙
 
 Overview
 
-MindCare Chatbot is a voice-enabled AI mental health assistant built using React.js. It allows users to communicate through text or voice and receive AI-generated responses. The application also supports text-to-speech functionality for an interactive user experience.
+MindCare AI is a voice-enabled AI mental health assistant built using React.js. It allows users to communicate through text or voice and receive AI-generated responses. The application also supports text-to-speech functionality for an interactive user experience.
 
 Features
 
